@@ -99,4 +99,11 @@
   {title: "Rescate animal", description: "Asociación Civil sin fines de lucro (A.C.) Rescatamos personas, salvamos animales.", type: "Veterinario", location: "Global", link: "http://www.somosrescateanimal.org/como_ayudar.html"},
   {title: "Acopio Puebla Animales", description: "Centro de acopio para animales en Puebla.", type: "Veterinario", location: "Puebla", link: "https://www.facebook.com/protectoradeanimalesmexico/posts/1600794509972182"},
   {title: "Cruz Roja Chile", description: "La Cruz Roja de Chile en coordinación con la Embajada de México en Chile, ha habilitado una cuenta de donación disponible del día 20 al 30 de septiembre.", type: "Monetaria", location: "Chile", link: "https://www.facebook.com/201958359902746/photos/pb.201958359902746.-2207520000.1505936105./1373623076069596/"},
+   {title: "Acopio Unidad Deportiva Hugo Sánchez", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Veracruz, Veracruz", link: "https://twitter.com/osioelprototipo/status/910590277399674881"},   
+  {title: "Acopio Universidad Xalapa", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Xalapa, Veracruz", link: "https://twitter.com/UXoficial/status/910586373035274240"},   
+  {title: "Acopio Universidad Veracruzana", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Veracruz, Veracruz", link: "https://twitter.com/ArxDenxse/status/910580733961371648"},    
+  {title: "Acopio Universidad Cristóbal Colón", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Veracruz, Veracruz", link: "https://twitter.com/fMarivijims/status/910558071365107712"}, 
+  {title: "Acopio de empresarios inmobiliarios", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Boca del Río, Veracruz", link: "https://twitter.com/Agendamx/status/910548439481667589"},     
+  {title: "Acopio Tec Milenio", description: "Lugares donde se estarán recaudando víveres", type: "Víveres", location: "Boca del Río, Veracruz", link: "https://twitter.com/l3andro7/status/910547576163680257"},    
+    
  ];
